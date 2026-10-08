@@ -16,10 +16,10 @@ I work across the full analytics workflow: pulling data with SQL, cleaning and a
 
 ## Featured projects
 
-- [Labour Market Imbalance in Canada](https://github.com/poudelabhiyan/labour-market-imbalance-canada-capstone) - Forecasting model that measures and predicts labour market imbalance across Canada using Statistics Canada data (2015-2024). Built with Python, Jupyter, and machine learning.
+- [Labour Market Imbalance in Canada](https://github.com/poudelabhiyan/canada-labour-market-forecasting) - Forecasting model that measures and predicts labour market imbalance across Canada using Statistics Canada data (2015-2024). Built with Python, Jupyter, and machine learning.
 - [Toronto Bike Analytics Tool](https://github.com/poudelabhiyan/toronto-bike-share-analytics) - Test-driven analytics pipeline for Toronto bike-share data, with a Streamlit dashboard for ridership trends and station demand. Built with Python and pytest.
 - [Financial Transactions Summary Tool](https://github.com/poudelabhiyan/financial-transactions-analytics) - Python tool that turns raw transaction data into income/expense summaries, spending trends, and anomaly flags. Built with pandas and unit tests.
-- [Heart Disease Prediction](https://github.com/poudelabhiyan/Heart-Disease-Prediction) - Machine learning model that predicts heart disease risk from patient health data. Built with Python and scikit-learn.
+- [Heart Disease Prediction](https://github.com/poudelabhiyan/heart-disease-risk-prediction) - Machine learning model that predicts heart disease risk from patient health data. Built with Python and scikit-learn.
 
 ## Contact
 
