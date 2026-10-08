@@ -16,10 +16,10 @@ I work across the full analytics workflow: pulling data with SQL, cleaning and a
 
 ## Featured projects
 
-- [Labour Market Imbalance in Canada](https://github.com/poudelabhiyan/canada-labour-market-forecasting) - Forecasting model that measures and predicts labour market imbalance across Canada using Statistics Canada data (2015-2024). Built with Python, Jupyter, and machine learning.
-- [Toronto Bike Analytics Tool](https://github.com/poudelabhiyan/toronto-bike-share-analytics) - Test-driven analytics pipeline for Toronto bike-share data, with a Streamlit dashboard for ridership trends and station demand. Built with Python and pytest.
-- [Financial Transactions Summary Tool](https://github.com/poudelabhiyan/financial-transactions-analytics) - Python tool that turns raw transaction data into income/expense summaries, spending trends, and anomaly flags. Built with pandas and unit tests.
-- [Heart Disease Prediction](https://github.com/poudelabhiyan/heart-disease-risk-prediction) - Machine learning model that predicts heart disease risk from patient health data. Built with Python and scikit-learn.
+- [Labour Market Imbalance in Canada](https://github.com/poudelabhiyan/canada-labour-market-forecasting) — Compared SARIMAX, TBATS, BiLSTM, VAR, ensemble, and Chronos models on 2023–2025 backtests of Statistics Canada data (1980–2025); the 2026 forecast implies a loose labour market (vacancy-to-unemployment ratio ~0.27, about one vacancy per 3.8 unemployed).
+- [Toronto Bike-Share Analytics](https://github.com/poudelabhiyan/toronto-bike-share-analytics) — Test-driven pipeline over 205,868 trips with a Streamlit dashboard and verified SQL analysis: evening peak at 17:00, 75% of trips under 20 minutes, demand concentrated on the Queens Quay waterfront.
+- [Heart Disease Prediction](https://github.com/poudelabhiyan/heart-disease-risk-prediction) — Logistic Regression reaches 81% accuracy, but honest evaluation shows it identifies zero at-risk patients (F1 = 0 for the positive class) — documented as a case study in why accuracy misleads on imbalanced data.
+- [Financial Transactions Summary Tool](https://github.com/poudelabhiyan/financial-transactions-analytics) — Python tool that turns raw transaction data into income/expense summaries, spending trends, and anomaly flags. Built with pandas and unit tests.
 
 ## Contact
 
